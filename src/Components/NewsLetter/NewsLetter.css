@@ -1,0 +1,42 @@
+.newsletter-wrapper {
+  width: 1245px;
+  height: 356px;
+  background-color: #474747;
+  margin-bottom: 200px;
+}
+.send-button button {
+  background-color: var(--primary-color);
+  height: 53px;
+  width: 116px;
+  border-radius: 0px 8px 8px 0px;
+  border: 1px solid #e3b748;
+}
+.newsletter-heading {
+  color: var(--white-color);
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-family: Helvetica Now Display;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 75px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.input1 input {
+  border-radius: 8px 0px 0px 8px;
+  height: 53px;
+  width: 276px;
+  padding-left: 10px;
+}
+
+.newsletter-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.input2 input {
+  height: 53px;
+  width: 276px;
+}

@@ -1,0 +1,27 @@
+.teamfirst-wrapper {
+  display: flex;
+  gap: 230px;
+  margin-bottom: 60px;
+}
+.teamsecond-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.team-heading {
+  text-align: center;
+  color: var(--white-color);
+  margin-bottom: 70px;
+  height: 77px;
+  font-size: 30px;
+}
+.member2-wrapper {
+  background-color: var(--primary-color);
+  width: 260px;
+  height: 77px;
+  border-radius: 14px;
+  padding-left: 30px;
+  padding-top: 5px;
+}
+.member6-wrapper {
+  margin-right: 14px;
+}

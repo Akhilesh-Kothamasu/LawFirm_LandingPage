@@ -1,0 +1,24 @@
+.navbar-hero {
+  height: auto;
+  width: 1526;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: var(--black-color);
+}
+.rest-all {
+  background: #1d1d1d;
+}
+.except-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+.only-footer {
+  height: 367px;
+  background-color: var(--black-color);
+}

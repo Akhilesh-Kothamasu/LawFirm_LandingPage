@@ -1,0 +1,43 @@
+.accordion-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.accordion-heading h3 {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  width: auto;
+  height: 24px;
+}
+
+.accordion-iconwrapper {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  background-color: #e3b748;
+  border-radius: 50%;
+  border: 2px solid #e3b748;
+}
+
+.accordion-iconwrapper p {
+  color: var(--color-black);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.accordion-answer {
+  margin-bottom: 15px;
+  font-family: Inter;
+  color: var(--white-color);
+  opacity: 30%;
+  font-size: 18px;
+}
